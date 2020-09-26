@@ -75,8 +75,7 @@
 |![image](./ch7/062.jpg)|![image](./ch7/063.jpg)|![image](./ch7/064.jpg)|![image](./ch7/065.jpg)|
 |![image](./ch7/066.jpg)|![image](./ch7/067.jpg)|![image](./ch7/068.jpg)|![image](./ch7/069.jpg)
 |![image](./ch7/070.jpg)|![image](./ch7/071.jpg)|![image](./ch7/072.jpg)|![image](./ch7/073.jpg)
-|![image](./ch7/074.jpg)|||--by 王博Kings| 
-
+|![image](./ch7/074.jpg)|||
 ## 第八章   集成信息
 | 1 | 2 | 3 |4 |
 |:-----------:|:--------:|:---------:|:---------:|
